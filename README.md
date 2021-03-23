@@ -22,13 +22,15 @@
 ```
 
 ```bash
-> cd Ngewe
-> bash install.sh
+> pkg install ruby
+> gem install
+> chmod 777 Ngentod.sh
 ```
 
 ### Usage
 ```bash
-> node index.js
+> cd Ngewe
+> sh Ngentod.sh
 ```
 
 
@@ -40,5 +42,5 @@
 
 ## Sosmed
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
-* [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
+* [`WhatsApp`](https://chat.whatsapp.com/EpMBlLhGl922shCyNEljDb)
 * [`Instagram`](https://instagram.com/mhmdfjralfarizi_)
