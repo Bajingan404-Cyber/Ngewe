@@ -1,0 +1,2 @@
+# Ngewe
+GABUT BARENG KITA COKKK!!!
