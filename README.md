@@ -1,8 +1,8 @@
 <p align="center">
-<img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
+<img src=https://i.ibb.co/XJQP7RX/tt.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/denisputraa">
+<a href="https://github.com/Tersakiti404-cyber">
 </p>
 
   
@@ -18,11 +18,11 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/denisputraa/dnsbot
+> git clone https://github.com/Tersakiti404-cyber/Ngewe
 ```
 
 ```bash
-> cd dnsbot
+> cd Ngewe
 > bash install.sh
 ```
 
@@ -41,4 +41,4 @@
 ## Sosmed
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
 * [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
-* [`Instagram`](https://instagram.com/denssptraa)
+* [`Instagram`](https://instagram.com/mhmdfjralfarizi_)
