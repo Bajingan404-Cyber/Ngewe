@@ -36,7 +36,7 @@
 
 ## Special Thanks To
 * [`Fxc7`](https://github.com/Fxc7)
-* [`DIM5`](https://github.com/D1M5-DARKBOT)
+* [`DnsBOT`](https://github.com/denisputraa)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 
