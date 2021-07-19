@@ -43,4 +43,4 @@
 ## Sosmed
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
 * [`WhatsApp`](https://chat.whatsapp.com/EpMBlLhGl922shCyNEljDb)
-* [`Instagram`](https://instagram.com/mhmdfjralfarizi_)
+* [`Instagram`](https://instagram.com/mhmdfjralfariz_)
