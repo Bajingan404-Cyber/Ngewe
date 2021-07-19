@@ -1,8 +1,8 @@
 echo -e '\033[01;32m'
 echo "--------------------------------"
-echo "         TOOL Ngentod Onlen        "
-echo "          © author Fajar      "
-echo "             _Unfaedah_          "
+echo "         TOOLS NGENTOT ONLINE        "
+echo "          © author Hafidz      "
+echo "           _Sangean bro_          "
 echo "--------------------------------"
 
 echo -n "Masukan Nama Agan : "
